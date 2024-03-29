@@ -1,4 +1,4 @@
-Imports the famous 2b art at the waypoint location in your hideout!
+Imports the famous 2b art at the waypoint location in your Path of Exile hideout!
 
 Usage: python 2b_importer.py \<your .hideout filepath\>
 
