@@ -9,6 +9,6 @@ Instructions:
 4. Import resulting 2b_\<your hideout name\>.hideout
 5. Enjoy!
 
-Note that if 2b intersects with walls, your game may crash. 2b will still import correctly and won't cause further crashes.
-
 ![image](https://github.com/2bEnjoyer/2b_importer/assets/165363419/fdf0be08-3bb6-45da-b7d8-d15079a0ee8d)
+
+Note that if 2b intersects with walls, your game may crash. 2b will still import correctly and won't cause further crashes.
