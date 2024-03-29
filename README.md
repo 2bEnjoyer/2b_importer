@@ -8,3 +8,5 @@ Instructions:
 3. Run 2b_importer.py on the exported .hideout file
 4. Import resulting 2b_\<your hideout name\>.hideout
 5. Enjoy!
+
+Note that if 2b intersects with walls, your game may crash. 2b will still import correctly and won't cause further crashes.
